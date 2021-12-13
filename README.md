@@ -1,10 +1,14 @@
 # Interactive-Games-with-Gesture-Detection
 Hand Dectection Games using MediaPipe
+- Drawing Canvas
+- Kalimba
+- Rock, Paper, Scissors
 
-# To install the necessary Python packages:
+# Install and Run
+
+```
 pip3 install mediapipe
 pip3 install pygame
-
-# Then run the game code:
 python3 main.py
+```
 
