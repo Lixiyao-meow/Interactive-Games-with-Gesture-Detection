@@ -7,8 +7,8 @@ Hand Dectection Games using MediaPipe
 # Install and Run
 
 ```
-pip3 install mediapipe
-pip3 install pygame
-python3 main.py
+$ pip3 install mediapipe
+$ pip3 install pygame
+$ python3 main.py
 ```
 
